@@ -1,1 +1,1 @@
-# Hi I'm EH경 🙌
+# Hi there! 🙌
