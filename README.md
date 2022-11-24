@@ -8,6 +8,4 @@
 <h3>3. 좋아하는 일에 몰입하기</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_tk)](https://solved.ac/kim_tk/)  
-
-![241E7C3354AD714C07](https://user-images.githubusercontent.com/105103712/197237902-18a9b0fd-a2fc-439d-8d51-7d80209fb97b.png)
 </div>
