@@ -1,11 +1,8 @@
 
-<div>
-<h1>🌱 FE developer</h1>
+<div align="center">
+<h1>🧑‍💻 FE developer</h1>
 
-<h2>Remind three</h2>
-<h3>1. 좋은 건 좋은 사람과 함께 공유하기</h3>
-<h3>2. 항상 어린아이처럼 생각하기</h3>
-<h3>3. 좋아하는 일에 몰입하기</h3>
+<h2> 세상에서는 너희가 환난을 당하나<br/>담대하라 내가 세상을 이기었노라 하시니라</h2>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_tk)](https://solved.ac/kim_tk/)  
+  <img width="1183" alt="KakaoTalk_Photo_2022-12-19-11-09-20 003" src="https://user-images.githubusercontent.com/105103712/208334331-6cfe5fde-e087-431d-a02d-888a8b6f7d4c.png">
 </div>
