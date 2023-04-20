@@ -1,4 +1,6 @@
-## ✝️ ESCAPE THE MATRIX.
-# 신과 나를 제외하고 그 어떤 것도 나를 통제할 수 없다.
+## 세상에서는 너희가 환난을 당하나 `담대하라` 내가 세상을 이기었노라 하시니라
+## 요한복음 16장 33절 
 
-<img width="1177" alt="KakaoTalk_Photo_2022-12-19-11-09-21 015" src="https://user-images.githubusercontent.com/105103712/226498117-1e780a7f-1f7a-4699-9328-c67d5e99649e.png">
+![69ab27594126217515c7fe7f1696cffa](https://user-images.githubusercontent.com/105103712/233400104-624794b5-6902-47ee-99a2-11edb2e294f4.jpg)
+
+
